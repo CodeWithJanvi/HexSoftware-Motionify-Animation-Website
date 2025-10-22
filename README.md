@@ -1,42 +1,37 @@
+---
 Motionify – Interactive Animation Website
 
-Motionify is a fully responsive and interactive animation website that demonstrates a variety of modern web animations including card effects, wave animations, hover transitions, and smooth motion interactions. Perfect for UI/UX inspiration and learning web animation techniques.
+Motionify is a modern, responsive animation website demonstrating interactive card effects, wave animations, hover effects, and smooth motion transitions. Ideal for UI/UX inspiration and web animation projects.
+---
+##🌟 Features
 
-🌟 Features
+✅ Responsive Design – works perfectly on desktop, tablet, and mobile
 
-Responsive Design: Works seamlessly on desktop, tablet, and mobile
+✅ Interactive Card Animations
 
-Interactive Cards: Animated card hover effects for UI engagement
+✅ Smooth Wave Animations
 
-Wave Animations: Smooth SVG/CSS wave effects
+✅ Hover & Motion Effects on buttons, images, and sections
 
-Hover & Motion Effects: Buttons, images, and sections animate dynamically
+✅ Light/Dark Theme Toggle
 
-Light/Dark Theme: Switch between light and dark mode
+✅ Fully Customizable Components
 
-Customizable Components: Easily add or modify animations
+---
 
-🎬 Demo
+##🎬 Demo
 
-Live demo: [Your Website URL]
+Live Demo: [https://hex-software-motionify-animation-we.vercel.app/]
 
-Preview GIF:
-
-🛠 Technologies Used
+---
+##🛠 Technologies Used
 
 HTML5 – Semantic markup
 
-CSS3 / SCSS – Styling and animations
+CSS3 / SCSS – Styling & animations
 
-JavaScript (Vanilla JS) – Interactive behaviors
+JavaScript (Vanilla JS) – Interactive effects
 
-GSAP / Anime.js (optional) – Advanced animations
+GSAP / Anime.js (optional) – Advanced motion animations
 
-Responsive Layout – CSS Grid & Flexbox
-
-⚡ Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/motionify.git
-
+Responsive Design – CSS Grid & Flexbox
