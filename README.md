@@ -1,9 +1,4 @@
-# ![Motionify Logo](img/logo.png) Motionify – Interactive Animation Website
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/motionify?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/motionify?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/motionify)
-![License](https://img.shields.io/github/license/yourusername/motionify)
+#  Motionify – Interactive Animation Website
 
 **Motionify** is a modern, responsive animation website that demonstrates interactive card effects, wave animations, hover effects, and smooth motion transitions. It is perfect for UI/UX inspiration and learning modern web animation techniques.
 
