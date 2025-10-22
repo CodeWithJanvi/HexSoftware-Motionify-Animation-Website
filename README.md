@@ -1,4 +1,4 @@
-# ![Motionify Logo](assets/logo.png) Motionify – Interactive Animation Website
+# ![Motionify Logo](img/logo.png) Motionify – Interactive Animation Website
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/motionify?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/motionify?style=social)
@@ -22,11 +22,7 @@
 
 ## 🎬 Demo
 
-Live Demo: [Your Website URL]
-
-**Preview GIF:**
-
-![Demo GIF](assets/demo.gif)
+Live Demo: [https://hex-software-motionify-animation-we.vercel.app/]
 
 ---
 
