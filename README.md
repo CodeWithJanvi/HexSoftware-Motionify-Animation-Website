@@ -33,7 +33,7 @@ Live Demo: [https://hex-software-motionify-animation-we.vercel.app/]
 
 ## ⚡ Installation
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/CodeWithJanvi/HexSoftware-Motionify-Animation-Website.git
 
 ```bash
 git clone https://github.com/yourusername/motionify.git
